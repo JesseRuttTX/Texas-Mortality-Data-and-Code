@@ -1,0 +1,1272 @@
+{
+    "BEXAR": {
+        "latitude": 29.4241,
+        "longitude": -98.4936,
+        "average_population": 1955031
+    },
+    "HARRIS": {
+        "latitude": 29.7604,
+        "longitude": -95.3698,
+        "average_population": 4629425
+    },
+    "DALLAS": {
+        "latitude": 32.7767,
+        "longitude": -96.797,
+        "average_population": 2583867
+    },
+    "TARRANT": {
+        "latitude": 32.7555,
+        "longitude": -97.3308,
+        "average_population": 2050902
+    },
+    "TRAVIS": {
+        "latitude": 30.2672,
+        "longitude": -97.7431,
+        "average_population": 1234166
+    },
+    "COLLIN": {
+        "latitude": 33.084,
+        "longitude": -96.8141,
+        "average_population": 996044
+    },
+    "DENTON": {
+        "latitude": 33.2148,
+        "longitude": -97.1331,
+        "average_population": 848703
+    },
+    "HIDALGO": {
+        "latitude": 26.1892,
+        "longitude": -98.158,
+        "average_population": 856535
+    },
+    "MONTGOMERY": {
+        "latitude": 30.3883,
+        "longitude": -95.696,
+        "average_population": 583092
+    },
+    "WILLIAMSON": {
+        "latitude": 30.6414,
+        "longitude": -97.674,
+        "average_population": 562842
+    },
+    "CAMERON": {
+        "latitude": 25.9306,
+        "longitude": -97.4849,
+        "average_population": 421372
+    },
+    "BRAZORIA": {
+        "latitude": 29.118,
+        "longitude": -95.35,
+        "average_population": 361171
+    },
+    "BELL": {
+        "latitude": 31.056,
+        "longitude": -97.4644,
+        "average_population": 354017
+    },
+    "GALVESTON": {
+        "latitude": 29.3013,
+        "longitude": -94.7977,
+        "average_population": 334895
+    },
+    "LUBBOCK": {
+        "latitude": 33.5779,
+        "longitude": -101.8552,
+        "average_population": 305198
+    },
+    "WEBB": {
+        "latitude": 27.7778,
+        "longitude": -99.3758,
+        "average_population": 270190
+    },
+    "SMITH": {
+        "latitude": 32.3513,
+        "longitude": -95.3011,
+        "average_population": 228674
+    },
+    "NUECES": {
+        "latitude": 27.7406,
+        "longitude": -97.4286,
+        "average_population": 357558
+    },
+    "MIDLAND": {
+        "latitude": 31.9973,
+        "longitude": -102.0779,
+        "average_population": 166056
+    },
+    "ECTOR": {
+        "latitude": 31.8692,
+        "longitude": -102.3637,
+        "average_population": 159446
+    },
+    "HAYS": {
+        "latitude": 30.1623,
+        "longitude": -98.0025,
+        "average_population": 219677
+    },
+    "ELLIS": {
+        "latitude": 32.2614,
+        "longitude": -96.8351,
+        "average_population": 179383
+    },
+    "BRAZOS": {
+        "latitude": 30.652,
+        "longitude": -96.341,
+        "average_population": 224206
+    },
+    "BOWIE": {
+        "latitude": 33.4418,
+        "longitude": -94.3474,
+        "average_population": 93042
+    },
+    "CALDWELL": {
+        "latitude": 29.882,
+        "longitude": -97.6186,
+        "average_population": 43036
+    },
+    "BROWN": {
+        "latitude": 31.7296,
+        "longitude": -98.9912,
+        "average_population": 37912
+    },
+    "GRAYSON": {
+        "latitude": 33.663,
+        "longitude": -96.6089,
+        "average_population": 131989
+    },
+    "GREGG": {
+        "latitude": 32.5146,
+        "longitude": -94.7091,
+        "average_population": 123753
+    },
+    "HUNT": {
+        "latitude": 33.1965,
+        "longitude": -96.1517,
+        "average_population": 95916
+    },
+    "HARRISON": {
+        "latitude": 32.5533,
+        "longitude": -94.3626,
+        "average_population": 67412
+    },
+    "HENDERSON": {
+        "latitude": 32.1638,
+        "longitude": -95.8413,
+        "average_population": 81389
+    },
+    "HOWARD": {
+        "latitude": 32.3062,
+        "longitude": -101.4355,
+        "average_population": 35438
+    },
+    "KAUFMAN": {
+        "latitude": 32.5883,
+        "longitude": -96.3089,
+        "average_population": 131621
+    },
+    "LAMPASAS": {
+        "latitude": 31.1425,
+        "longitude": -98.223,
+        "average_population": 21128
+    },
+    "MATAGORDA": {
+        "latitude": 28.882,
+        "longitude": -95.9687,
+        "average_population": 36559
+    },
+    "NACOGDOCHES": {
+        "latitude": 31.6026,
+        "longitude": -94.6555,
+        "average_population": 65151
+    },
+    "NAVARRO": {
+        "latitude": 32.0627,
+        "longitude": -96.479,
+        "average_population": 50209
+    },
+    "ORANGE": {
+        "latitude": 30.0924,
+        "longitude": -93.7366,
+        "average_population": 84087
+    },
+    "PARKER": {
+        "latitude": 32.775,
+        "longitude": -97.7035,
+        "average_population": 138357
+    },
+    "POLK": {
+        "latitude": 30.767,
+        "longitude": -94.8005,
+        "average_population": 49154
+    },
+    "RANDALL": {
+        "latitude": 34.9797,
+        "longitude": -101.9147,
+        "average_population": 135727
+    },
+    "UPSHUR": {
+        "latitude": 32.7207,
+        "longitude": -94.951,
+        "average_population": 41046
+    },
+    "VICTORIA": {
+        "latitude": 28.8053,
+        "longitude": -97.0036,
+        "average_population": 91494
+    },
+    "WHARTON": {
+        "latitude": 29.3115,
+        "longitude": -96.1056,
+        "average_population": 41506
+    },
+    "WOOD": {
+        "latitude": 32.7307,
+        "longitude": -95.3839,
+        "average_population": 44498
+    },
+    "ANDERSON": {
+        "latitude": 31.813221029253477,
+        "longitude": -95.65252491732447,
+        "average_population": 57830
+    },
+    "ANGELINA": {
+        "latitude": 31.25476427606712,
+        "longitude": -94.61174887970503,
+        "average_population": 87173
+    },
+    "ARANSAS": {
+        "latitude": 28.127100426139688,
+        "longitude": -96.99259685399711,
+        "average_population": 24417
+    },
+    "BEE": {
+        "latitude": 28.417371594056423,
+        "longitude": -97.74117565384643,
+        "average_population": 32157
+    },
+    "BLANCO": {
+        "latitude": 30.266366473356612,
+        "longitude": -98.39974864630598,
+        "average_population": 11457
+    },
+    "BURNET": {
+        "latitude": 30.78843911652639,
+        "longitude": -98.18253158247471,
+        "average_population": 47338
+    },
+    "CALHOUN": {
+        "latitude": 28.489673858712088,
+        "longitude": -96.64708845963308,
+        "average_population": 21141
+    },
+    "CHILDRESS": {
+        "latitude": 34.529298465494676,
+        "longitude": -100.20757487128209,
+        "average_population": 7080
+    },
+    "COLORADO": {
+        "latitude": 29.62085932456233,
+        "longitude": -96.52631550349788,
+        "average_population": 20957
+    },
+    "COMAL": {
+        "latitude": 29.80816872895842,
+        "longitude": -98.27815289736313,
+        "average_population": 147344
+    },
+    "CORYELL": {
+        "latitude": 31.390881209597772,
+        "longitude": -97.79919599848286,
+        "average_population": 78106
+    },
+    "DEAFSMITH": {
+        "latitude": 34.96602598805352,
+        "longitude": -102.60482528182251,
+        "average_population": 18729
+    },
+    "DEWITT": {
+        "latitude": 29.08202097867832,
+        "longitude": -97.35667723317846,
+        "average_population": 20213
+    },
+    "DIMMIT": {
+        "latitude": 28.42161646183925,
+        "longitude": -99.76058203648024,
+        "average_population": 9949
+    },
+    "ELPASO": {
+        "latitude": 31.768627747432333,
+        "longitude": -106.23523261169373,
+        "average_population": 844634
+    },
+    "ERATH": {
+        "latitude": 32.23640918147363,
+        "longitude": -98.21723541329521,
+        "average_population": 41954
+    },
+    "FANNIN": {
+        "latitude": 33.59397510790173,
+        "longitude": -96.106574949219,
+        "average_population": 34939
+    },
+    "FAYETTE": {
+        "latitude": 29.876837236299203,
+        "longitude": -96.91968786782903,
+        "average_population": 24930
+    },
+    "FLOYD": {
+        "latitude": 34.07240351195276,
+        "longitude": -101.30331242853788,
+        "average_population": 5711
+    },
+    "FORTBEND": {
+        "latitude": 29.52763766280486,
+        "longitude": -95.77091271710356,
+        "average_population": 774127
+    },
+    "FRIO": {
+        "latitude": 28.867272636421436,
+        "longitude": -99.10826794366551,
+        "average_population": 19037
+    },
+    "GRAY": {
+        "latitude": 35.40131266807895,
+        "longitude": -100.81248366617972,
+        "average_population": 22178
+    },
+    "GUADALUPE": {
+        "latitude": 29.582577434481635,
+        "longitude": -97.94851072623787,
+        "average_population": 161824
+    },
+    "HALE": {
+        "latitude": 34.070523553711794,
+        "longitude": -101.82691702638934,
+        "average_population": 33590
+    },
+    "HAMILTON": {
+        "latitude": 31.704797292126855,
+        "longitude": -98.11067433584446,
+        "average_population": 8285
+    },
+    "HANSFORD": {
+        "latitude": 36.27753791996982,
+        "longitude": -101.35457126493422,
+        "average_population": 5419
+    },
+    "HARDIN": {
+        "latitude": 30.33238965974416,
+        "longitude": -94.39022071549505,
+        "average_population": 56596
+    },
+    "HILL": {
+        "latitude": 31.990795898651587,
+        "longitude": -97.13242176573307,
+        "average_population": 35767
+    },
+    "HOCKLEY": {
+        "latitude": 33.607509384750735,
+        "longitude": -102.34310084286862,
+        "average_population": 22624
+    },
+    "HOOD": {
+        "latitude": 32.431084406152515,
+        "longitude": -97.83281114720582,
+        "average_population": 59101
+    },
+    "JEFFERSON": {
+        "latitude": 29.884263584585646,
+        "longitude": -94.17088450387362,
+        "average_population": 253915
+    },
+    "JIMWELLS": {
+        "latitude": 27.731315684709063,
+        "longitude": -98.08987250084971,
+        "average_population": 40455
+    },
+    "JOHNSON": {
+        "latitude": 32.37900481415488,
+        "longitude": -97.36661267983875,
+        "average_population": 171130
+    },
+    "KENDALL": {
+        "latitude": 29.944644815382933,
+        "longitude": -98.7116129592315,
+        "average_population": 43476
+    },
+    "KERR": {
+        "latitude": 30.0615354719568,
+        "longitude": -99.35017769826213,
+        "average_population": 51900
+    },
+    "KLEBERG": {
+        "latitude": 27.432748597222222,
+        "longitude": -97.7289052828937,
+        "average_population": 31077
+    },
+    "LAMAR": {
+        "latitude": 33.66746782181309,
+        "longitude": -95.57111510200778,
+        "average_population": 49756
+    },
+    "LAMB": {
+        "latitude": 34.06861812555046,
+        "longitude": -102.35171848560769,
+        "average_population": 13147
+    },
+    "LAVACA": {
+        "latitude": 29.38437509773281,
+        "longitude": -96.93021730966562,
+        "average_population": 20106
+    },
+    "LEE": {
+        "latitude": 30.310655901070508,
+        "longitude": -96.96569478260005,
+        "average_population": 17161
+    },
+    "LIBERTY": {
+        "latitude": 30.151537168805913,
+        "longitude": -94.81209938016761,
+        "average_population": 86583
+    },
+    "LIMESTONE": {
+        "latitude": 31.545424484808116,
+        "longitude": -96.58057457995622,
+        "average_population": 23042
+    },
+    "MCLENNAN": {
+        "latitude": 31.55235037361868,
+        "longitude": -97.20185639087022,
+        "average_population": 253114
+    },
+    "MOORE": {
+        "latitude": 35.83769466030621,
+        "longitude": -101.89296458376349,
+        "average_population": 21462
+    },
+    "MOTLEY": {
+        "latitude": 34.07409595770305,
+        "longitude": -100.7799046987834,
+        "average_population": 1148
+    },
+    "NEWTON": {
+        "latitude": 30.78620523814712,
+        "longitude": -93.74463655902875,
+        "average_population": 13461
+    },
+    "PALOPINTO": {
+        "latitude": 32.753174229738256,
+        "longitude": -98.31300312223385,
+        "average_population": 28514
+    },
+    "POTTER": {
+        "latitude": 35.401295227378924,
+        "longitude": -101.89405732307101,
+        "average_population": 119221
+    },
+    "ROCKWALL": {
+        "latitude": 32.89787346336864,
+        "longitude": -96.40781326799265,
+        "average_population": 100673
+    },
+    "RUSK": {
+        "latitude": 32.10803793148113,
+        "longitude": -94.76170273161193,
+        "average_population": 53279
+    },
+    "SANPATRICIO": {
+        "latitude": 28.009226630737185,
+        "longitude": -97.51860603967555,
+        "average_population": 67653
+    },
+    "STEPHENS": {
+        "latitude": 32.735847189134056,
+        "longitude": -98.83612818685714,
+        "average_population": 9344
+    },
+    "TAYLOR": {
+        "latitude": 32.30138780922107,
+        "longitude": -99.89004767264348,
+        "average_population": 138580
+    },
+    "TERRY": {
+        "latitude": 33.17374284952941,
+        "longitude": -102.33516593576896,
+        "average_population": 12310
+    },
+    "TOMGREEN": {
+        "latitude": 31.40444952179684,
+        "longitude": -100.46207611330317,
+        "average_population": 117927
+    },
+    "UPTON": {
+        "latitude": 31.36854482713852,
+        "longitude": -102.0430091726822,
+        "average_population": 3484
+    },
+    "UVALDE": {
+        "latitude": 29.356703252877267,
+        "longitude": -99.76203914744883,
+        "average_population": 26279
+    },
+    "VALVERDE": {
+        "latitude": 29.893010890784865,
+        "longitude": -101.15171840828022,
+        "average_population": 48549
+    },
+    "VANZANDT": {
+        "latitude": 32.56369534850809,
+        "longitude": -95.83649346669415,
+        "average_population": 56453
+    },
+    "WALLER": {
+        "latitude": 30.010942447970326,
+        "longitude": -95.98769659029578,
+        "average_population": 52989
+    },
+    "WICHITA": {
+        "latitude": 33.98422172761121,
+        "longitude": -98.70154196989611,
+        "average_population": 131273
+    },
+    "WILSON": {
+        "latitude": 29.17316394994539,
+        "longitude": -98.0862178147802,
+        "average_population": 49134
+    },
+    "WISE": {
+        "latitude": 33.21585639576748,
+        "longitude": -97.65444901119275,
+        "average_population": 66989
+    },
+    "YOAKUM": {
+        "latitude": 33.172940543218765,
+        "longitude": -102.82788820806839,
+        "average_population": 8250
+    },
+    "ZAPATA": {
+        "latitude": 27.000895241018917,
+        "longitude": -99.16860918422518,
+        "average_population": 14187
+    },
+    "ARMSTRONG": {
+        "latitude": 34.965226666402025,
+        "longitude": -101.35725004773843,
+        "average_population": 1878
+    },
+    "ATASCOSA": {
+        "latitude": 28.894189240326376,
+        "longitude": -98.5274207830552,
+        "average_population": 49206
+    },
+    "BASTROP": {
+        "latitude": 30.103540376153212,
+        "longitude": -97.31188455657905,
+        "average_population": 88290
+    },
+    "BOSQUE": {
+        "latitude": 31.900510294885688,
+        "longitude": -97.63438381881943,
+        "average_population": 18252
+    },
+    "CAMP": {
+        "latitude": 32.973223562407796,
+        "longitude": -94.97860891568286,
+        "average_population": 12726
+    },
+    "COLLINGSWORTH": {
+        "latitude": 34.96499089492108,
+        "longitude": -100.27008181535665,
+        "average_population": 2879
+    },
+    "COOKE": {
+        "latitude": 33.63847087643629,
+        "longitude": -97.21248410384418,
+        "average_population": 40462
+    },
+    "CROCKETT": {
+        "latitude": 30.722924468989884,
+        "longitude": -101.41184492937188,
+        "average_population": 3443
+    },
+    "DELTA": {
+        "latitude": 33.38624191266244,
+        "longitude": -95.67222412477514,
+        "average_population": 5249
+    },
+    "EASTLAND": {
+        "latitude": 32.32739814602103,
+        "longitude": -98.83257930837362,
+        "average_population": 18139
+    },
+    "FALLS": {
+        "latitude": 31.253175603500978,
+        "longitude": -96.9358025797344,
+        "average_population": 17184
+    },
+    "FREESTONE": {
+        "latitude": 31.704869982904864,
+        "longitude": -96.14919264320689,
+        "average_population": 19710
+    },
+    "GILLESPIE": {
+        "latitude": 30.3180076426055,
+        "longitude": -98.94628037606135,
+        "average_population": 26467
+    },
+    "HASKELL": {
+        "latitude": 33.17825373531346,
+        "longitude": -99.73030228419373,
+        "average_population": 5652
+    },
+    "HOPKINS": {
+        "latitude": 33.14934408138852,
+        "longitude": -95.5641489653002,
+        "average_population": 36524
+    },
+    "HOUSTON": {
+        "latitude": 31.31764687700085,
+        "longitude": -95.42226076042074,
+        "average_population": 22635
+    },
+    "KARNES": {
+        "latitude": 28.904942761792068,
+        "longitude": -97.85961380179593,
+        "average_population": 15180
+    },
+    "LLANO": {
+        "latitude": 30.705671060338712,
+        "longitude": -98.68388185641494,
+        "average_population": 21038
+    },
+    "MAVERICK": {
+        "latitude": 28.74261425996065,
+        "longitude": -100.3144720141847,
+        "average_population": 57770
+    },
+    "MCCULLOCH": {
+        "latitude": 31.198972857302348,
+        "longitude": -99.34755778704034,
+        "average_population": 7926
+    },
+    "MEDINA": {
+        "latitude": 29.35520992371995,
+        "longitude": -99.11009123057143,
+        "average_population": 50229
+    },
+    "MILAM": {
+        "latitude": 30.786258335983742,
+        "longitude": -96.97684240989054,
+        "average_population": 24769
+    },
+    "MONTAGUE": {
+        "latitude": 33.674969146316116,
+        "longitude": -97.72467774890868,
+        "average_population": 19771
+    },
+    "PANOLA": {
+        "latitude": 32.16223457776608,
+        "longitude": -94.30553543215422,
+        "average_population": 23197
+    },
+    "ROBERTS": {
+        "latitude": 35.83856378331675,
+        "longitude": -100.81357761961428,
+        "average_population": 878
+    },
+    "ROBERTSON": {
+        "latitude": 31.027059559141282,
+        "longitude": -96.51273303160623,
+        "average_population": 16869
+    },
+    "SANJACINTO": {
+        "latitude": 30.579494423367954,
+        "longitude": -95.16683971698251,
+        "average_population": 27836
+    },
+    "STARR": {
+        "latitude": 26.562130706257154,
+        "longitude": -98.73835667786523,
+        "average_population": 64312
+    },
+    "STONEWALL": {
+        "latitude": 33.17842723365795,
+        "longitude": -100.25526737678166,
+        "average_population": 1335
+    },
+    "TITUS": {
+        "latitude": 33.21609649566069,
+        "longitude": -94.9651049385923,
+        "average_population": 32208
+    },
+    "WALKER": {
+        "latitude": 30.7390003042497,
+        "longitude": -95.57224881950121,
+        "average_population": 73567
+    },
+    "WILLACY": {
+        "latitude": 26.471333438222846,
+        "longitude": -97.64304067999652,
+        "average_population": 21259
+    },
+    "YOUNG": {
+        "latitude": 33.17671336660173,
+        "longitude": -98.68782198439901,
+        "average_population": 18061
+    },
+    "ARCHER": {
+        "latitude": 33.61539756735589,
+        "longitude": -98.6878424184633,
+        "average_population": 8733
+    },
+    "BAILEY": {
+        "latitude": 34.06849718840054,
+        "longitude": -102.8299159508009,
+        "average_population": 7006
+    },
+    "BANDERA": {
+        "latitude": 29.74725259446437,
+        "longitude": -99.24638078761161,
+        "average_population": 21709
+    },
+    "BURLESON": {
+        "latitude": 30.492466690788024,
+        "longitude": -96.62110134650817,
+        "average_population": 17943
+    },
+    "CASS": {
+        "latitude": 33.07751036337897,
+        "longitude": -94.34349462129505,
+        "average_population": 29621
+    },
+    "CHAMBERS": {
+        "latitude": 29.739127973429472,
+        "longitude": -94.60891988907403,
+        "average_population": 42925
+    },
+    "CHEROKEE": {
+        "latitude": 31.836961943246568,
+        "longitude": -95.16515938956447,
+        "average_population": 51594
+    },
+    "COCHRAN": {
+        "latitude": 33.60411369036587,
+        "longitude": -102.82853546316278,
+        "average_population": 2795
+    },
+    "COKE": {
+        "latitude": 31.888498342732255,
+        "longitude": -100.52988309167841,
+        "average_population": 3284
+    },
+    "COLEMAN": {
+        "latitude": 31.773299645720083,
+        "longitude": -99.45363391147937,
+        "average_population": 8184
+    },
+    "COMANCHE": {
+        "latitude": 31.94906941004232,
+        "longitude": -98.5584232969833,
+        "average_population": 13603
+    },
+    "HUTCHINSON": {
+        "latitude": 35.84001471240016,
+        "longitude": -101.35473454905868,
+        "average_population": 21179
+    },
+    "JACKSON": {
+        "latitude": 28.956036324865607,
+        "longitude": -96.5788399578952,
+        "average_population": 14871
+    },
+    "JASPER": {
+        "latitude": 30.743917999157578,
+        "longitude": -94.02496518997977,
+        "average_population": 34653
+    },
+    "JONES": {
+        "latitude": 32.739709885852676,
+        "longitude": -99.87851427463524,
+        "average_population": 19937
+    },
+    "KINNEY": {
+        "latitude": 29.35000796331913,
+        "longitude": -100.4178523430829,
+        "average_population": 3486
+    },
+    "REDRIVER": {
+        "latitude": 33.62075136367204,
+        "longitude": -95.05019572956674,
+        "average_population": 12051
+    },
+    "REFUGIO": {
+        "latitude": 28.326818972241778,
+        "longitude": -97.16547700643756,
+        "average_population": 7046
+    },
+    "SCHLEICHER": {
+        "latitude": 30.89661578755878,
+        "longitude": -100.53810535088579,
+        "average_population": 2850
+    },
+    "SHELBY": {
+        "latitude": 31.79242756822617,
+        "longitude": -94.14495939101077,
+        "average_population": 25030
+    },
+    "TRINITY": {
+        "latitude": 31.088512376016382,
+        "longitude": -95.13552382652075,
+        "average_population": 14330
+    },
+    "WASHINGTON": {
+        "latitude": 30.214535156823953,
+        "longitude": -96.40357304132826,
+        "average_population": 35254
+    },
+    "CASTRO": {
+        "latitude": 34.530008828955296,
+        "longitude": -102.26176978502673,
+        "average_population": 7640
+    },
+    "CLAY": {
+        "latitude": 33.7838030305444,
+        "longitude": -98.20896593994894,
+        "average_population": 10391
+    },
+    "DALLAM": {
+        "latitude": 36.27777712830924,
+        "longitude": -102.60217392575349,
+        "average_population": 7238
+    },
+    "DONLEY": {
+        "latitude": 34.96540840032149,
+        "longitude": -100.8140587247479,
+        "average_population": 3368
+    },
+    "DUVAL": {
+        "latitude": 27.681338496383713,
+        "longitude": -98.50890442375778,
+        "average_population": 10894
+    },
+    "MARION": {
+        "latitude": 32.79798513597197,
+        "longitude": -94.3572592887716,
+        "average_population": 9943
+    },
+    "MARTIN": {
+        "latitude": 32.30606389918279,
+        "longitude": -101.95125519273226,
+        "average_population": 5467
+    },
+    "MITCHELL": {
+        "latitude": 32.306365713181194,
+        "longitude": -100.9211212874908,
+        "average_population": 8767
+    },
+    "NOLAN": {
+        "latitude": 32.303477289796376,
+        "longitude": -100.40610725973043,
+        "average_population": 14850
+    },
+    "SANSABA": {
+        "latitude": 31.15521077959011,
+        "longitude": -98.817550884375,
+        "average_population": 5921
+    },
+    "SCURRY": {
+        "latitude": 32.7472061772912,
+        "longitude": -100.91651561377859,
+        "average_population": 17018
+    },
+    "WARD": {
+        "latitude": 31.509429238592293,
+        "longitude": -103.10247252690507,
+        "average_population": 11477
+    },
+    "WILBARGER": {
+        "latitude": 34.08045539312722,
+        "longitude": -99.24090389947182,
+        "average_population": 12844
+    },
+    "AUSTIN": {
+        "latitude": 29.887117426506855,
+        "longitude": -96.27792552823804,
+        "average_population": 29810
+    },
+    "BAYLOR": {
+        "latitude": 33.616487256863316,
+        "longitude": -99.21352781633331,
+        "average_population": 3541
+    },
+    "BREWSTER": {
+        "latitude": 29.812063290298987,
+        "longitude": -103.25189954835763,
+        "average_population": 9297
+    },
+    "BROOKS": {
+        "latitude": 27.031571449080353,
+        "longitude": -98.21874888317022,
+        "average_population": 7111
+    },
+    "GRIMES": {
+        "latitude": 30.54361222079478,
+        "longitude": -95.98558054071097,
+        "average_population": 28446
+    },
+    "HEMPHILL": {
+        "latitude": 35.83750766441205,
+        "longitude": -100.2704714500462,
+        "average_population": 3820
+    },
+    "LEON": {
+        "latitude": 31.296562668457426,
+        "longitude": -95.99555015738599,
+        "average_population": 16744
+    },
+    "OCHILTREE": {
+        "latitude": 36.27846949717877,
+        "longitude": -100.81566175044225,
+        "average_population": 10149
+    },
+    "PRESIDIO": {
+        "latitude": 29.999782788657928,
+        "longitude": -104.24056432087747,
+        "average_population": 6763
+    },
+    "RUNNELS": {
+        "latitude": 31.83105935283107,
+        "longitude": -99.9762562451606,
+        "average_population": 10157
+    },
+    "SABINE": {
+        "latitude": 31.343224987470663,
+        "longitude": -93.85171107362773,
+        "average_population": 10315
+    },
+    "TYLER": {
+        "latitude": 30.77126613665753,
+        "longitude": -94.37652111375148,
+        "average_population": 21068
+    },
+    "ANDREWS": {
+        "latitude": 32.30506822971221,
+        "longitude": -102.63789281149907,
+        "average_population": 17974
+    },
+    "CALLAHAN": {
+        "latitude": 32.297779338990324,
+        "longitude": -99.37360506026312,
+        "average_population": 13838
+    },
+    "CRANE": {
+        "latitude": 31.42846811448751,
+        "longitude": -102.51565132539018,
+        "average_population": 4749
+    },
+    "GONZALES": {
+        "latitude": 29.456420018165133,
+        "longitude": -97.49280679965165,
+        "average_population": 20328
+    },
+    "OLDHAM": {
+        "latitude": 35.40498177321902,
+        "longitude": -102.6030040378052,
+        "average_population": 1989
+    },
+    "PECOS": {
+        "latitude": 30.781005561305818,
+        "longitude": -102.72358310408231,
+        "average_population": 15558
+    },
+    "SOMERVELL": {
+        "latitude": 32.22230069748312,
+        "longitude": -97.77457326921828,
+        "average_population": 8991
+    },
+    "FISHER": {
+        "latitude": 32.7430571250254,
+        "longitude": -100.40195874585348,
+        "average_population": 3799
+    },
+    "MORRIS": {
+        "latitude": 33.113690960566224,
+        "longitude": -94.73205838687183,
+        "average_population": 12319
+    },
+    "RAINS": {
+        "latitude": 32.870047918112455,
+        "longitude": -95.79348272530261,
+        "average_population": 11835
+    },
+    "STERLING": {
+        "latitude": 31.827870535348453,
+        "longitude": -101.05007839924329,
+        "average_population": 1331
+    },
+    "COTTLE": {
+        "latitude": 34.07766291170649,
+        "longitude": -100.27870677834167,
+        "average_population": 1390
+    },
+    "CROSBY": {
+        "latitude": 33.61460441838158,
+        "longitude": -101.29986989669078,
+        "average_population": 5610
+    },
+    "DAWSON": {
+        "latitude": 32.742586872794575,
+        "longitude": -101.94762234797038,
+        "average_population": 12774
+    },
+    "GAINES": {
+        "latitude": 32.74075084076355,
+        "longitude": -102.6351335612079,
+        "average_population": 20739
+    },
+    "GOLIAD": {
+        "latitude": 28.65709053846877,
+        "longitude": -97.42646829636199,
+        "average_population": 7405
+    },
+    "KNOX": {
+        "latitude": 33.6061533044025,
+        "longitude": -99.74145143876838,
+        "average_population": 3600
+    },
+    "MADISON": {
+        "latitude": 30.96565186887846,
+        "longitude": -95.92819160938849,
+        "average_population": 13929
+    },
+    "REEVES": {
+        "latitude": 31.32307579217819,
+        "longitude": -103.69315210272909,
+        "average_population": 14652
+    },
+    "SWISHER": {
+        "latitude": 34.53065570386567,
+        "longitude": -101.73495988026255,
+        "average_population": 7335
+    },
+    "HARDEMAN": {
+        "latitude": 34.2886581441972,
+        "longitude": -99.7453934566338,
+        "average_population": 3841
+    },
+    "MENARD": {
+        "latitude": 30.889823111780785,
+        "longitude": -99.82062288274759,
+        "average_population": 2076
+    },
+    "FRANKLIN": {
+        "latitude": 33.175512787166674,
+        "longitude": -95.21842151820334,
+        "average_population": 10629
+    },
+    "GARZA": {
+        "latitude": 33.179916350072254,
+        "longitude": -101.29845829944095,
+        "average_population": 6094
+    },
+    "REAL": {
+        "latitude": 29.831832161686254,
+        "longitude": -99.82216692121459,
+        "average_population": 3211
+    },
+    "WHEELER": {
+        "latitude": 35.40129605814271,
+        "longitude": -100.26977197990438,
+        "average_population": 5275
+    },
+    "JACK": {
+        "latitude": 33.23346394955974,
+        "longitude": -98.17255879942408,
+        "average_population": 8789
+    },
+    "KIMBLE": {
+        "latitude": 30.4867676947101,
+        "longitude": -99.74893528812989,
+        "average_population": 4385
+    },
+    "MCMULLEN": {
+        "latitude": 28.353515716609948,
+        "longitude": -98.56843030439295,
+        "average_population": 719
+    },
+    "MILLS": {
+        "latitude": 31.49524800580204,
+        "longitude": -98.59553525737326,
+        "average_population": 4762
+    },
+    "HARTLEY": {
+        "latitude": 35.839973541140566,
+        "longitude": -102.60289267144942,
+        "average_population": 5637
+    },
+    "CONCHO": {
+        "latitude": 31.326457447923,
+        "longitude": -99.86414246018806,
+        "average_population": 3457
+    },
+    "CULBERSON": {
+        "latitude": 31.44710333744986,
+        "longitude": -104.51775143762391,
+        "average_population": 2219
+    },
+    "FOARD": {
+        "latitude": 33.97409101319727,
+        "longitude": -99.77871943200172,
+        "average_population": 1174
+    },
+    "GLASSCOCK": {
+        "latitude": 31.869429170566487,
+        "longitude": -101.52075059357817,
+        "average_population": 1290
+    },
+    "HALL": {
+        "latitude": 34.53074721459866,
+        "longitude": -100.6809961709159,
+        "average_population": 2993
+    },
+    "LYNN": {
+        "latitude": 33.17686045587003,
+        "longitude": -101.8160322411928,
+        "average_population": 5767
+    },
+    "SUTTON": {
+        "latitude": 30.497476677168923,
+        "longitude": -100.53823463513348,
+        "average_population": 3695
+    },
+    "ZAVALA": {
+        "latitude": 28.865311079417438,
+        "longitude": -99.76102807061162,
+        "average_population": 11315
+    },
+    "JEFFDAVIS": {
+        "latitude": 30.715598280435795,
+        "longitude": -104.14036305397863,
+        "average_population": 2150
+    },
+    "LASALLE": {
+        "latitude": 28.346215113285247,
+        "longitude": -99.10348517266719,
+        "average_population": 7263
+    },
+    "SANAUGUSTINE": {
+        "latitude": 31.39427561996552,
+        "longitude": -94.16810439591056,
+        "average_population": 8226
+    },
+    "PARMER": {
+        "latitude": 34.53015083488027,
+        "longitude": -102.78460315109312,
+        "average_population": 9782
+    },
+    "REAGAN": {
+        "latitude": 31.36618226108982,
+        "longitude": -101.52301939083694,
+        "average_population": 3597
+    },
+    "KENT": {
+        "latitude": 33.182850552962364,
+        "longitude": -100.77911167845605,
+        "average_population": 753
+    },
+    "LIVEOAK": {
+        "latitude": 28.351442317555453,
+        "longitude": -98.124752569826,
+        "average_population": 11885
+    },
+    "THROCKMORTON": {
+        "latitude": 33.177544777155134,
+        "longitude": -99.21237646680298,
+        "average_population": 1532
+    },
+    "SHERMAN": {
+        "latitude": 36.277664339962364,
+        "longitude": -101.8933912739967,
+        "average_population": 2979
+    },
+    "MASON": {
+        "latitude": 30.717428172493353,
+        "longitude": -99.22631061262028,
+        "average_population": 4102
+    },
+    "WINKLER": {
+        "latitude": 31.850091385970973,
+        "longitude": -103.04848835347603,
+        "average_population": 7723
+    },
+    "CARSON": {
+        "latitude": 35.403474004118166,
+        "longitude": -101.35421251815237,
+        "average_population": 5939
+    },
+    "JIMHOGG": {
+        "latitude": 27.043409524990196,
+        "longitude": -98.69729982602993,
+        "average_population": 5116
+    },
+    "DICKENS": {
+        "latitude": 33.61663998653151,
+        "longitude": -100.7788223462329,
+        "average_population": 2076
+    },
+    "LIPSCOMB": {
+        "latitude": 36.277790511708105,
+        "longitude": -100.27317868024912,
+        "average_population": 3281
+    },
+    "SHACKELFORD": {
+        "latitude": 32.73603321606772,
+        "longitude": -99.35403849551912,
+        "average_population": 3268
+    },
+    "EDWARDS": {
+        "latitude": 29.982487227646153,
+        "longitude": -100.3049019025597,
+        "average_population": 1767
+    },
+    "KENEDY": {
+        "latitude": 26.92409901963214,
+        "longitude": -97.68138531014772,
+        "average_population": 406
+    },
+    "IRION": {
+        "latitude": 31.303937321721296,
+        "longitude": -100.98242108213212,
+        "average_population": 1543
+    },
+    "TERRELL": {
+        "latitude": 30.2250310206863,
+        "longitude": -102.07646193717616,
+        "average_population": 804
+    },
+    "BORDEN": {
+        "latitude": 32.743697127016326,
+        "longitude": -101.43176192121655,
+        "average_population": 643
+    },
+    "BRISCOE": {
+        "latitude": 34.53041632863965,
+        "longitude": -101.20858566545434,
+        "average_population": 1494
+    },
+    "KING": {
+        "latitude": 33.61642436381349,
+        "longitude": -100.25586687421732,
+        "average_population": 270
+    },
+    "LOVING": {
+        "latitude": 31.84913500698559,
+        "longitude": -103.57991537935126,
+        "average_population": 104
+    },
+    "HUDSPETH": {
+        "latitude": 31.45614250800769,
+        "longitude": -105.38695232368357,
+        "average_population": 3860
+    }
+}
