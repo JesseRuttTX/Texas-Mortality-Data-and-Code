@@ -15,4 +15,7 @@ This folder contains metadata and references for the datasets used in the analys
 - **T2_HeatRelatedDeaths_Method1_Method2_2010_2023.csv**  
   *Description:* Official Texas heat-related death counts for 2010–2023 obtained by Deceleration News via public records request.
 
+- **combined_county_data.json**  
+  *Description:* JSON with latitude and longitude for each Texas county's centroid. Also comntains average population values of each county.
+
 All files are used directly in the analysis and figure generation reported in the manuscript.
